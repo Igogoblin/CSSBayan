@@ -135,7 +135,7 @@ label {
     width: 60%;
     height: auto;
     display: none;
-    /* animation: imag 1s; */
+    cursor: grab ;
 }
 @keyframes imag {
     
