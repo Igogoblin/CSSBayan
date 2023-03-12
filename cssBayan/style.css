@@ -176,6 +176,7 @@ label {
 .container input:checked ~ .image {
     display: block;
     animation: imag 0.3s;
+    cursor: grab ;
 }
 
 @font-face {
